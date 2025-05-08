@@ -1,1 +1,6 @@
-
+streamlit as st  # ✅ Import first
+google.generativeai as genai
+random
+requests
+fpdf FPDF
+base64
